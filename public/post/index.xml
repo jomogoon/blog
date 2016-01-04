@@ -10,11 +10,11 @@
     <atom:link href="http://jomogoon.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>hello</title>
-      <link>http://jomogoon.github.io/blog/blog/hello/</link>
+      <title>hello world</title>
+      <link>http://jomogoon.github.io/blog/blog/hello-world/</link>
       <pubDate>Mon, 04 Jan 2016 23:04:42 +0900</pubDate>
       
-      <guid>http://jomogoon.github.io/blog/blog/hello/</guid>
+      <guid>http://jomogoon.github.io/blog/blog/hello-world/</guid>
       <description></description>
     </item>
     
