@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daily Log</title>
+    <link>http://jomogoon.github.io/blog/</link>
+    <description>Recent content on Daily Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Mon, 04 Jan 2016 23:04:42 +0900</lastBuildDate>
+    <atom:link href="http://jomogoon.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hello</title>
+      <link>http://jomogoon.github.io/blog/blog/hello/</link>
+      <pubDate>Mon, 04 Jan 2016 23:04:42 +0900</pubDate>
+      
+      <guid>http://jomogoon.github.io/blog/blog/hello/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
