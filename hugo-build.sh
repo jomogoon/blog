@@ -1,6 +1,7 @@
 #!/bin/bash
 
-rm -rf public/post/*
+#rm -rf public/post/*
+rm -rf public/*
 
 hugo
 
