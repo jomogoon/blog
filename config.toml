@@ -1,0 +1,18 @@
+baseurl = "http://jomogoon.github.io/blog"
+languageCode = "ko-kr"
+title = "Daily Log"
+theme = "heather-hugo" # 相対パスではなく baseurl を基点とした絶対パスにする
+canonifyurls = true
+
+[params]
+  description = "This is log"
+  author = "jomogoon"
+
+[permalinks]
+  post = "/blog/:slug/"
+
+[indexes]
+  category = "categories"
+  tag = "tags"
+
+
