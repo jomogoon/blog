@@ -1,8 +1,8 @@
-# !/bin/bash
+#!/bin/bash
 
-echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
+echo -e "\033[0;32mDeploying updates to Github...\033[0m"
 
-# Build the project. 
+# Build the project.
 hugo
 
 # Add changes to git.
