@@ -17,7 +17,5 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin master
-git subtree push --prefix=public git@github.com:jomogoon/blog.git gh-pages
 
 echo -e "\033[0;32mDeploy change to http://jomogoon.github.io ...\033[0m"
-./hugo-build.sh
