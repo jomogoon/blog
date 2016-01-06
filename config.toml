@@ -2,13 +2,12 @@ baseurl = "http://jomogoon.github.io"
 languageCode = "ko-kr"
 title = "LifeLog"
 paginate = 5
-#theme = "hugo-theme-air"
-theme = "hugo-theme-blueberry-detox"
+theme = "angels-ladder"
 canonifyurls = true
 author = "jomogoon"
 
 [permalinks]
-  post = "/blog/:slug/"
+  post = "/:year/:month/:day/:slug/"
 
 [indexes]
   category = "categories"
