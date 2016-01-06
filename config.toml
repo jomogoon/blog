@@ -1,0 +1,15 @@
+baseurl = "http://jomogoon.github.io"
+languageCode = "ko-kr"
+title = "LifeLog"
+paginate = 5
+theme = "angels-ladder"
+canonifyurls = true
+author = "jomogoon"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+
+[indexes]
+  category = "categories"
+  tag = "tags"
+
